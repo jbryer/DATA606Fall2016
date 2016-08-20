@@ -6,9 +6,7 @@ permalink: /schedule/
 
 *NOTE: Tentative. Subject to change*  
 
-
-<iframe src="https://calendar.google.com/calendar/embed?src=1rggi2meh364e6ten2lqk6m2mk%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?src=1rggi2meh364e6ten2lqk6m2mk%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ________________________________________________________________________________
 

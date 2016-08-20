@@ -9,7 +9,7 @@ permalink: /project/
 
 The purpose of the data project is for you to conduct a reproducible analysis with a data set of your choosing. There are two components to the project, the proposal, which will be graded on a pass/fail basis, and the final report. The outline for each of these are provided in the templates. When submitting the assignments, include the R Markdown file (change the name to include your last name, for example `Bryer-Proposal.Rmd` and `Bryer-Project.Rmd`) along with any supplementary files necessary to run the R Markdown file (e.g. data files, screenshots, etc.). Suggestions for possible data sources are included below, however you are free to use data not listed below. The only requirement is that you are allowed to share the data. Projects will be shared with others on this website so should be presented in a way that other students can reproduce your analysis.
 
-### Project Proposal
+## Project Proposal
 
 The proposal can be more informal using bullet points where necessary and include R code and output. You must address the following areas:
 
@@ -23,7 +23,7 @@ The proposal can be more informal using bullet points where necessary and includ
 * Relevant summary statistics 
 
 
-### Final Project Format
+## Final Project Format
 
 The final report should be presented in more formal format. Consider your audience to be non data analysts. Fellow data analysts (i.e. students) will be able to access your R Markdown file for details on the analysis. Submit a Zip file with your R Markdown file, the HTML output, and any supplementary files (e.g. data, figures, etc.). You must address the five following sections:
 
@@ -47,7 +47,7 @@ The final report should be presented in more formal format. Consider your audien
 
 5. **Conclusion**: Write a brief summary of your findings without repeating your statements from earlier. Also include a discussion of what you have learned about your research question and the data you collected. You may also want to include ideas for possible future research.
 
-### Data Sources
+## Data Sources
 
 You are not to use data sources used in class or the textbooks. Possible data sources include, but are not limited to:
 
