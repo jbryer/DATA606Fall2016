@@ -1,0 +1,33 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: DATA 606 Statistics and Probability for Data Analytics
+email: jason.bryer@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This course covers basic techniques in probability and statistics that are 
+  important in the field of data analytics. Discrete probability models, sampling 
+  from infinite and finite populations, statistical distributions, basic Bayesian 
+  statistics, and non-parametric statistical techniques for categorical data are 
+  covered in this course. Each of these statistical concepts will be applied in 
+  a variety of real-world scenarios through the use of case studies and 
+  customized data sets.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jbryer.github.com/DATA606Fall2016" # the base hostname & protocol for your site
+twitter_username: jbryer
+github_username:  jbryer
+
+# Build settings
+markdown: kramdown
+theme: minima
