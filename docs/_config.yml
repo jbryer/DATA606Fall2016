@@ -18,12 +18,12 @@ topbar:
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : JB
+title : DATA606
 author :
-  name : Jade Dominguez
-  email : plusjade@gmail.com
-  github : plusjade
-  twitter : plusjade
+  name : Jason Bryer, Ph.D.
+  email : jason.bryer@gmail.com
+  github : jbryer
+  twitter : jbryer
   feedburner : nil
 
 # The production_url is only used when full-domain names are needed
@@ -34,7 +34,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://jekyllbootstrap.com
+production_url : http://data606.net
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -75,7 +75,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : jbryer
     livefyre :
       site_id : 123
     intensedebate :
@@ -88,7 +88,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : custom
+    provider : false
     google : 
         tracking_id : 'UA-635329-12'
     getclicky :
@@ -100,7 +100,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : custom
+    provider : false
 
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
