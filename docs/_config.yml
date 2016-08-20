@@ -1,114 +1,28 @@
-# This is the default format. 
-# For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:title.html
+# Site settings
+title: DATA 606 - Spring 2016
+email: jason.bryer@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This course covers basic techniques in probability and statistics that are 
+  important in the field of data analytics. Discrete probability models, 
+  sampling from infinite and finite populations, statistical distributions, 
+  basic Bayesian statistics, and non-parametric statistical techniques for 
+  categorical data are covered in this course. Each of these statistical 
+  concepts will be applied in a variety of real-world scenarios through the 
+  use of case studies and customized data sets.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://data606.net" # the base hostname & protocol for your site
+twitter_username: jbryer
+github_username:  jbryer
 
-exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
-auto: true
-pygments: true
-gems: ["jekyll-sitemap"]
+# Build settings
+markdown: kramdown
 
-topbar:
-  - 
-    url : '/usage/index.html'
-    title : 'Start Blogging'
-  - 
-    url : '/developers/index.html'
-    title : 'Developers'
+# Other options
+permalink: blog/:year/:month/:title
+job.title: ""
+excerpt_separator: "<!--more-->"
 
-# Themes are encouraged to use these universal variables 
-# so be sure to set them if your theme uses them.
-#
-title : DATA606
-author :
-  name : Jason Bryer, Ph.D.
-  email : jason.bryer@gmail.com
-  github : jbryer
-  twitter : jbryer
-  feedburner : nil
-
-# The production_url is only used when full-domain names are needed
-# such as sitemap.txt 
-# Most places will/should use BASE_PATH to make the urls
-#
-# If you have set a CNAME (pages.github.com) set your custom domain here.
-# Else if you are pushing to username.github.com, replace with your username.
-# Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
-production_url : http://data606.net
-
-# All Jekyll-Bootstrap specific configurations are namespaced into this hash
-#
-JB :
-  version : 0.1.0
-
-  # All links will be namespaced by BASE_PATH if defined.
-  # This is required for hosting GitHub Project Pages.
-  # If you are deploying this website for one of your GitHub projects
-  # you must set BASE_PATH to the name of your GitHub project.
-  #
-  # Leave this blank if you have defined a CNAME for your site (pages.github.com)
-  # NOTE: When in localhost, your site will run from root "/" regardless of BASE_PATH
-  #
-  BASE_PATH : ""
-
-  # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
-  # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
-  #
-  # Override this by defining an absolute path to assets here.
-  # ex: 
-  #   http://s3.amazonaws.com/yoursite/themes/watermelon
-  #   /assets
-  #
-  ASSET_PATH : false
-
-  # These paths are to the main pages Jekyll-Bootstrap ships with.
-  # Some JB helpers refer to these paths; change theme here if needed.
-  #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-
-  # Settings for comments helper
-  # Set 'provider' to the comment provider you want to use.
-  # Set 'provider' to false to turn commenting off globally.
-  #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : jbryer
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      apikey : 123
-
-  # Settings for analytics helper
-  # Set 'provider' to the analytics provider you want to use.
-  # Set 'provider' to false to turn analytics off globally.
-  #        
-  analytics :
-    provider : false
-    google : 
-        tracking_id : 'UA-635329-12'
-    getclicky :
-      site_id : 
-
-  # Settings for sharing helper. 
-  # Sharing is for things like tweet, plusone, like, reddit buttons etc.
-  # Set 'provider' to the sharing provider you want to use.
-  # Set 'provider' to false to turn sharing off globally.
-  #
-  sharing :
-    provider : false
-
-  # Settings for all other include helpers can be defined by creating 
-  # a hash with key named for the given helper. ex:
-  #
-  #   pages_list :
-  #     provider : "custom"   
-  #
-  # Setting any helper's provider to 'custom' will bypass the helper code
-  # and include your custom code. Your custom file must be defined at:
-  #   ./_includes/custom/[HELPER]
-  # where [HELPER] is the name of the helper you are overriding.
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""

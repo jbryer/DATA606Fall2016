@@ -1,0 +1,22 @@
+- title: "Syllabus"
+  href: "/"
+
+- title: "Schedule"
+  href: "/schedule/"
+
+- title: "Homework"
+  href: "/homework/"
+  
+- title: "Labs"
+  href: "/labs/"
+  
+- title: "Project"
+  href: "/project"
+
+#- title: "Miscellany"
+#  href: "/miscellany/"
+#  subcategories:
+#    - subtitle: "Item 1"
+#      subhref: "/miscellany/item-1/"
+#    - subtitle: "Item 2"
+#      subhref: "/miscellany/item-2/"
