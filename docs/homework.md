@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework
-permalink: /Homework/
+permalink: /homework/
 ---
 
 The solutions to the practice problems are at the end of the book and do not need to be handed in. Graded assignments should be typed (preferably using R Markdown) or neatly hand written and scanned. Data for the homework assignments, and for within the chapters too, can be downloaded [here](https://github.com/jbryer/IS606Spring2016/blob/master/Data/os2_data.zip?raw=true).

@@ -13,14 +13,14 @@
 - title: "Project"
   href: "/project"
 
-- title: "Github"
-  href: "https://github.com/jbryer/DATA606Fall2016"
-
-
-#- title: "Chapters"
-#  href: "/chapters/"
-#  subcategories:
-#    - subtitle: "Chapter 1"
-#      subhref: "/pages/chapter1/"
-#    - subtitle: "Item 2"
-#      subhref: "/miscellany/item-2/"
+- title: "Misc"
+  #href: "/chapters/"
+  subcategories:
+    - subtitle: "Software"
+      subhref: "/software/"
+    - subtitle: "Math Equations"
+      subhref: "/mathjax/"
+    - subtitle: "Links"
+      subhref: "/links/"
+    - subtitle: "Github"
+      subhref: "https://github.com/jbryer/DATA606Fall2016"
