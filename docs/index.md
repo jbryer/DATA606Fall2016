@@ -4,12 +4,11 @@ title: Syllabus
 permalink: /
 ---
 
-This course covers basic techniques in probability and statistics that are important in the field of data analytics. Discrete probability models, sampling from infinite and finite populations, statistical distributions, basic Bayesian statistics, and non-parametric statistical techniques for categorical data are covered in this course. Each of these statistical concepts will be applied in a variety of real-world scenarios through the use of case studies and customized data sets.
 
 **Instructor:** Jason Bryer, Ph.D.  
 **Class Meetup:** Thursday 8:00pm to 9:00pm  
 **Office Hours:** By appointment  
-**Email:** <a href="mailto:jason.bryer@gmail.com?Subject=IS606">jason.bryer@gmail.com</a>    
+**Email:** <a href="mailto:jason.bryer@gmail.com?Subject=DATA606">jason.bryer@gmail.com</a>    
 **Phone:** 518-464-8594  
 
 ## Course Description
