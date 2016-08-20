@@ -40,9 +40,9 @@ Probabilistic techniques are the foundation of many data science applications fr
 
 ## Grading
 
-* Homework (16%)
-* Labs (40%)
-* Data Project (20%)
+* [Homework](/homework) (16%)
+* [Labs](/labs) (40%)
+* [Data Project](/project) (20%)
 * Final exam (18%)
 * Meetup Presentation (5%)
 * Getting Aquainted (1%)
@@ -107,7 +107,7 @@ Kruschke, J.K. (2014). *Doing Bayesian Data Analysis, Second Edition: A Tutorial
 
 Office Hours (cell phone or using GoToMeeting): **TBD** and also by appointment throughout the week.  You’re encouraged to schedule an appointment, but you can try to call anytime.
 
-You are encouraged to ask us questions on the "Ask Your Instructor"" forum on the course discussion board where other students will be able to benefit from your inquiries.
+You are encouraged to ask us questions on the "Ask Your Instructor" forum on the course discussion board where other students will be able to benefit from your inquiries.
 
 For the most part, you can expect me to respond to questions by email within 24 to 48 hours. If you do not hear back from me within 48 hours of sending an email, please resend your message.
 
