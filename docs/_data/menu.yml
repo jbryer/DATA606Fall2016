@@ -24,3 +24,5 @@
       subhref: "/links/"
     - subtitle: "Github"
       subhref: "https://github.com/jbryer/DATA606Fall2016"
+    - subtitle: "Blackboard"
+      subhref: "https://cunyportal.cuny.edu/cpr/authenticate/portal_login.jsp"
