@@ -1,14 +1,8 @@
 # Site settings
-title: DATA 606 - Spring 2016
+title: DATA 606 - Fall 2016
 email: jason.bryer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This course covers basic techniques in probability and statistics that are 
-  important in the field of data analytics. Discrete probability models, 
-  sampling from infinite and finite populations, statistical distributions, 
-  basic Bayesian statistics, and non-parametric statistical techniques for 
-  categorical data are covered in this course. Each of these statistical 
-  concepts will be applied in a variety of real-world scenarios through the 
-  use of case studies and customized data sets.
+  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://data606.net" # the base hostname & protocol for your site
 twitter_username: jbryer
