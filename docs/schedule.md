@@ -30,6 +30,13 @@ ________________________________________________________________________________
 
 There will be weekly meetups. You are encouraged to attend as many as you can but recordings will generally be availabe within a few days of the meetup.
 
+You can join the meetup from your computer, tablet or smartphone at: [https://global.gotomeeting.com/join/890853557](https://global.gotomeeting.com/join/890853557).
+
+You can also dial in using your phone: (646) 749-3122  
+Access Code: 890-853-557
+
+First GoToMeeting? Try a test session: [http://help.citrix.com/getready]
+
 [Presentation Signup Sheet](https://docs.google.com/spreadsheets/d/1xIO-Ofi9AQyVZcK5QABWmEhpGGCC0xpijAD_IA5ESKA/edit)
 
 
