@@ -92,13 +92,13 @@ startLab('Lab1')
 
 There is only one pie chart in *OpenIntro Statistics* (Diez, Barr, & Çetinkaya-Rundel, 2015, p. 48). Consider the following three pie charts that represent the preference of five different colors. Is there a difference between the three pie charts? This is probably a difficult to answer.
 
-![Pie](Pie.png)
+![Pie](/figures/Pie.png)
 
 However, consider the bar plot below. Here, we cleary see there is a difference between the ratio of the three colors. As John Tukey famously said:
 
 > There is no data that can be displayed in a pie chart that cannot better be displayed in some other type of chart
 
-![Bar](Bar.png)
+![Bar](/figures/Bar.png)
 
 Source: [https://en.wikipedia.org/wiki/Pie_chart](https://en.wikipedia.org/wiki/Pie_chart).
 

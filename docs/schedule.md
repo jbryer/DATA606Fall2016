@@ -42,9 +42,9 @@ Thursday, Sep 15, 8:00 pm | Distributions Part I            |
 Thursday, Sep 22, 8:00 pm | Distributions Part II           |
 Thursday, Sep 29, 8:00 pm | Foundation for Inference        |
 Thursday, Oct 6, 8:00 pm  | TBD                             |
-Thursday, Oct 13, 8:00 pm | Inference for Numerical Data    |
-Thursday, Oct 20, 8:00 pm | Inference for Categorical Data  |
-Thursday, Oct 27, 8:00 pm | TBD                             |
+October 13                | NO MEETUP                       |
+Thursday, Oct 20, 8:00 pm | Inference for Numerical Data    |
+Thursday, Oct 27, 8:00 pm | Inference for Categorical Data  |
 Thursday, Nov 3, 8:00 pm  | Linear Regression               |
 Thursday, Nov 10, 8:00 pm | Linear Regression 2             |
 Thursday, Nov 17, 8:00 pm | Multiple & Logistic Regression  |
