@@ -1,4 +1,4 @@
-# IS 606 - Statistics and Probability for Data Analytics - Fall 2016
+# DATA 606 - Statistics and Probability for Data Analytics - Fall 2016
 
 This is the repository for the DATA 606 course fort he Fall 2016 semester. The course website is at [data606.net](http://data606.net).
 
