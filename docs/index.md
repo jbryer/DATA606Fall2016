@@ -44,7 +44,7 @@ Probabilistic techniques are the foundation of many data science applications fr
 * [Labs](/labs) (40%)
 * [Data Project](/project) (20%)
 * Final exam (18%)
-* Meetup Presentation (5%)
+* [Meetup Presentation](/presentation) (5%)
 * Getting Aquainted (1%)
 
 ### Grade Distribution
@@ -59,6 +59,8 @@ Below Average                              |      B-      | 80 - 82.9 | 2.7  |
 Poor                                       |      C+      | 77 - 79.9 | 2.3  |
 Poor                                       |      C       | 70 - 76.9 |  2   |
 Failure                                    |      F       |   < 70    |  0   |
+
+<br />
 
 ## How This Course Works:
 
