@@ -4,12 +4,20 @@ title: Syllabus
 permalink: /
 ---
 
-
 **Instructor:** Jason Bryer, Ph.D.  
 **Class Meetup:** Thursday 8:00pm to 9:00pm  
 **Office Hours:** By appointment  
 **Email:** <a href="mailto:jason.bryer@gmail.com?Subject=DATA606">jason.bryer@gmail.com</a>    
 **Phone:** 518-464-8594  
+
+## [Announcements](/announcements)
+
+<ul>
+{% for post in site.posts %}
+<li><a href="/announcements/#{{ post.title }}">{{ post.date | date: '%B %d, %Y' }} - {{ post.title }}</a></li>
+
+{% endfor %}
+</ul>
 
 ## Course Description
 
@@ -105,7 +113,7 @@ Kruschke, J.K. (2014). *Doing Bayesian Data Analysis, Second Edition: A Tutorial
 
 ## Contact
 
-Office Hours (cell phone or using GoToMeeting): **TBD** and also by appointment throughout the week.  You’re encouraged to schedule an appointment, but you can try to call anytime.
+Office Hours (cell phone or using GoToMeeting): By appointment. You’re encouraged to schedule an appointment, but you can try to call anytime.
 
 You are encouraged to ask us questions on the "Ask Your Instructor" forum on the course discussion board where other students will be able to benefit from your inquiries.
 

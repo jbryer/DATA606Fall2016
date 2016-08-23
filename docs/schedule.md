@@ -8,12 +8,14 @@ permalink: /schedule/
 
 <iframe src="https://calendar.google.com/calendar/embed?src=1rggi2meh364e6ten2lqk6m2mk%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
+<br />
+
 ________________________________________________________________________________
 
 ## Course Schedule
 
 Start  | Due Date | Chapter | Topic                              
--------|----------|:-------:|:-----------------------------------
+:------|:---------|:-------:|:-----------------------------------
 Aug-25 | Sep-4    | 1       | [Intro to Data](/pages/chapter1)
 Sep-5  | Sep-11   | 2       | [Probability](/pages/chapter2)
 Sep-12 | Sep-25   | 3       | [Distributions](/pages/chapter3)
@@ -24,6 +26,9 @@ Oct-31 | Nov-13   | 7       | [Linear Regression](/pages/chapter7)
 Nov-14 | Nov-27   | 8       | [Multiple & Logistic Regression](/pages/chapter8)
 Nov-28 | Dec-11   | Navarro | [Introduction to Bayesian Analysis](/pages/chapter9)
 Dec-12 | Dec-16   |         | Final Exam (due by 5pm on December 16, 2016)
+
+<br />
+
 
 ________________________________________________________________________________
 
@@ -36,13 +41,13 @@ You can join the meetup from your computer, tablet or smartphone at: [https://gl
 You can also dial in using your phone: (646) 749-3122  
 Access Code: 890-853-557
 
-First GoToMeeting? Try a test session: [http://help.citrix.com/getready]
+First GoToMeeting? Try a test session: [http://help.citrix.com/getready](http://help.citrix.com/getready)
 
 [Presentation Signup Sheet](https://docs.google.com/spreadsheets/d/18JPR5b-0-Oyinj--H6hb8u8BY9QxCv8S4UsCwTGvS9w/edit#gid=0)
 
 
 Date                      | Topic                           |
---------------------------|:--------------------------------|
+:-------------------------|:--------------------------------|
 Thursday, Sep 1, 8:00 pm  | Introduction to data            |
 Thursday, Sep 8, 8:00 pm  | Probability                     |
 Thursday, Sep 15, 8:00 pm | Distributions Part I            |
