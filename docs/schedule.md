@@ -42,7 +42,6 @@ First GoToMeeting? Try a test session: [http://help.citrix.com/getready]
 
 Date                      | Topic                           |
 --------------------------|:--------------------------------|
-Thursday, Aug 25, 8:00 pm | Introduction to the course      |
 Thursday, Sep 1, 8:00 pm  | Introduction to data            |
 Thursday, Sep 8, 8:00 pm  | Probability                     |
 Thursday, Sep 15, 8:00 pm | Distributions Part I            |
