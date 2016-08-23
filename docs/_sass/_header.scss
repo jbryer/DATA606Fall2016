@@ -51,8 +51,7 @@
 	padding: 0;
 	list-style-type: none;
 	/*text-transform: uppercase;*/
-		font-family: 'Titillium Web', sans-serif;
-
+	font-family: 'Titillium Web', sans-serif;
 }
 
 .site-nav .menu > li {
@@ -68,7 +67,7 @@
 
 .site-nav a {
 	display: block;
-        color: #ffffff;
+    color: #ffffff;
 }
 
 /* Sub Menu */
@@ -108,7 +107,7 @@
 	-moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	-webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	display: none;
-	right: -10px;
+	/*right: -10px;*/
 	padding: 4px 0 3px 0;
 	position: absolute;
 	text-align: left;
@@ -126,7 +125,7 @@ z-index:999;
 	height: auto;
 	margin: 3px 0;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 }
 
 .site-nav li:hover > .sub-menu {
@@ -142,14 +141,13 @@ z-index:999;
     float: right;
     line-height: 40px;
 
-
     .menu-icon {
         display: none;
     }
 
     .page-link {
         color: #ffffff;
-    background: $clemson-orange;
+        background: $clemson-orange;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
