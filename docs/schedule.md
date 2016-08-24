@@ -23,9 +23,9 @@ Sep-26 | Oct-9    | 4       | [Foundation for Inference](/pages/chapter4)
 Oct-10 | Oct-30   | 5       | [Inference for Numerical Data](/pages/chapter5)
 Oct-10 | Oct-30   | 6       | [Inference for Categorical Data](/pages/chapter6)
 Oct-31 | Nov-13   | 7       | [Linear Regression](/pages/chapter7)
-Nov-14 | Nov-27   | 8       | [Multiple & Logistic Regression](/pages/chapter8)
-Nov-28 | Dec-11   | Navarro | [Introduction to Bayesian Analysis](/pages/chapter9)
-Dec-12 | Dec-16   |         | Final Exam (due by 5pm on December 16, 2016)
+Nov-14 | Dec-4    | 8       | [Multiple & Logistic Regression](/pages/chapter8)
+Dec-1  | Dec-11   | Navarro | [Introduction to Bayesian Analysis](/pages/chapter9)
+Dec-12 | Dec-15   |         | Final Exam
 
 <br />
 
