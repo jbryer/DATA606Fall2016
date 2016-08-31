@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Meetup"
-date:   2016-08-29
+date:   2016-08-30
 categories: announcement
 excerpt_separator: <!--more-->
 ---
