@@ -6,7 +6,7 @@ categories: announcement
 excerpt_separator: <!--more-->
 ---
 
-To get started with the labs, you will need to install R and other supporting applications. Links to download all the software is on the [Software](/software) page at [http://data606.net/software] which is available on the `Misc` menu. Once you are in RStudio, you will need to install a number of R packages using the following two commands:
+To get started with the labs, you will need to install R and other supporting applications. Links to download all the software is on the [Software](/software) page at [http://data606.net/software](http://data606.net/software) which is available on the `Misc` menu. Once you are in RStudio, you will need to install a number of R packages using the following two commands:
 
 ```
 install.packages(c('openintro','OIdata','devtools','ggplot2','psych','reshape2',
