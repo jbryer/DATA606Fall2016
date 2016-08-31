@@ -34,7 +34,7 @@ If you click `Lab0` that will take you into that folder where you will see the R
 
 The console pane will always tell you what your current working directory is. Clicking the arrow icon will open that folder in the `Files` tab on the right. R will look for files and directories that do not have absolute paths (i.e. starting with `C:` on windows or `/` on Linux and Macs) relative to the working directory. 
 
-![Working Directory](/figures/Rstudio-screen-wd.png)
+![Working Directory](/figures/RStudio-screen-wd.png)
 
 
 
