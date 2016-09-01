@@ -32,7 +32,7 @@ Dec-12 | Dec-15   |         | Final Exam
 
 ________________________________________________________________________________
 
-## Meetup Schedule
+## Meetups
 
 There will be weekly meetups. You are encouraged to attend as many as you can but recordings will generally be availabe within a few days of the meetup.
 
@@ -48,7 +48,7 @@ First GoToMeeting? Try a test session: [http://help.citrix.com/getready](http://
 
 Date                      | Topic                           |
 :-------------------------|:--------------------------------|
-Thursday, Sep 1, 8:00 pm  | Introduction to data            |
+Thursday, Sep 1, 8:00 pm  | Introduction to data ([Slides](/slides/2016-09-01-Intro_to_Course.html), Video)           |
 Thursday, Sep 8, 8:00 pm  | Probability                     |
 Thursday, Sep 15, 8:00 pm | Distributions Part I            |
 Thursday, Sep 22, 8:00 pm | Distributions Part II           |
