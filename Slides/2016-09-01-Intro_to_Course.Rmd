@@ -582,3 +582,4 @@ My advise:
 * When necessary (or compelled) to use them, rescale (using z-scores)
 
 <sup>1</sup> http://blog.revolutionanalytics.com/2016/08/dual-axis-time-series.html
+<sup>2</sup> http://ellisp.github.io/blog/2016/08/18/dualaxes

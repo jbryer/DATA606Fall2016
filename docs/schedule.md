@@ -46,9 +46,9 @@ First GoToMeeting? Try a test session: [http://help.citrix.com/getready](http://
 [Presentation Signup Sheet](https://docs.google.com/spreadsheets/d/18JPR5b-0-Oyinj--H6hb8u8BY9QxCv8S4UsCwTGvS9w/edit#gid=0)
 
 
-Date                      | Topic                           |
-:-------------------------|:--------------------------------|
-Thursday, Sep 1, 8:00 pm  | Introduction to data ([Slides](/slides/2016-09-01-Intro_to_Course.html), Video)           |
+Date                      | Topic                           | Resources |
+:-------------------------|:--------------------------------|:----------|
+Thursday, Sep 1, 8:00 pm  | Introduction to data            | ([Slides](/slides/2016-09-01-Intro_to_Course.html), [Video](https://youtu.be/vRB_AkcfeUQ))
 Thursday, Sep 8, 8:00 pm  | Probability                     |
 Thursday, Sep 15, 8:00 pm | Distributions Part I            |
 Thursday, Sep 22, 8:00 pm | Distributions Part II           |
