@@ -50,7 +50,7 @@ Date                      | Topic                           | Resources |
 :-------------------------|:--------------------------------|:----------|
 Thursday, Sep 1, 8:00 pm  | Introduction to data            | [Slides](/slides/2016-09-01-Intro_to_Course.html), [Video](https://youtu.be/vRB_AkcfeUQ)
 Thursday, Sep 8, 8:00 pm  | Probability                     | [Slides](/slides/2016-09-08-Probability.html), [Video](https://youtu.be/0qztsiM0j3M)
-Thursday, Sep 15, 8:00 pm | Distributions Part I            |
+Thursday, Sep 15, 8:00 pm | Distributions Part I            | [Slides](/slides/2016-09-15-Distributions.html), [Video](https://youtu.be/oekknAYsk9Q)
 Thursday, Sep 22, 8:00 pm | Distributions Part II           |
 Thursday, Sep 29, 8:00 pm | Foundation for Inference        |
 Thursday, Oct 6, 8:00 pm  | TBD                             |
