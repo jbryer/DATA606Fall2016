@@ -57,8 +57,8 @@ Thursday, Oct 6, 8:00 pm  | TBD                             |
 October 13                | NO MEETUP                       |
 Thursday, Oct 20, 8:00 pm | Inference for Numerical Data    |
 Thursday, Oct 27, 8:00 pm | Inference for Categorical Data  |
-Thursday, Nov 3, 8:00 pm  | Linear Regression               |
-Thursday, Nov 10, 8:00 pm | Linear Regression 2             |
+November 3                | NO MEETUP                       |
+Thursday, Nov 10, 8:00 pm | Linear Regression               |
 Thursday, Nov 17, 8:00 pm | Multiple & Logistic Regression  |
 November 24               | NO MEETUP - Thanksgiving        |
 Thursday, Dec 1, 8:00 pm  | Intro to Bayesian Analysis      |
