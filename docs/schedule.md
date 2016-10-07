@@ -52,8 +52,8 @@ Thursday, Sep 1, 8:00 pm  | Introduction to data            | [Slides](/slides/2
 Thursday, Sep 8, 8:00 pm  | Probability                     | [Slides](/slides/2016-09-08-Probability.html), [Video](https://youtu.be/0qztsiM0j3M)
 Thursday, Sep 15, 8:00 pm | Distributions Part I            | [Slides](/slides/2016-09-15-Distributions.html), [Video](https://youtu.be/oekknAYsk9Q)
 Thursday, Sep 22, 8:00 pm | Distributions Part II           | [Slides](/slides/2016-09-22-Distributions2.html), [Video](https://youtu.be/G-hvXp2PjOw)
-Thursday, Sep 29, 8:00 pm | Foundation for Inference        | [Slides](/slides/2016-09-29-Foundation_for_Inference), [Video](https://youtu.be/Qj-78pt4BtY)
-Thursday, Oct 6, 8:00 pm  | TBD                             |
+Thursday, Sep 29, 8:00 pm | Foundation for Inference        | [Slides](/slides/2016-09-29-Foundation_for_Inference.html), [Video](https://youtu.be/Qj-78pt4BtY)
+Thursday, Oct 6, 8:00 pm  | Foundation for Inference cont.  | [Slides](/slides/2016-10-06-Foundation_for_Inference2.html), [Video](https://youtu.be/MFpkOo4K8f8)
 October 13                | NO MEETUP                       |
 Thursday, Oct 20, 8:00 pm | Inference for Numerical Data    |
 Thursday, Oct 27, 8:00 pm | Inference for Categorical Data  |
