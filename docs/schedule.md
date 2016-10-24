@@ -64,3 +64,4 @@ Thursday, Nov 17, 8:00 pm | Multiple & Logistic Regression  |
 November 24               | NO MEETUP - Thanksgiving        |
 Thursday, Dec 1, 8:00 pm  | Intro to Bayesian Analysis      |
 Thursday, Dec 8, 8:00 pm  | Conclusions                     |
+
