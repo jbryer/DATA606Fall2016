@@ -57,7 +57,7 @@ Thursday, Sep 29, 8:00 pm | Foundation for Inference        | [Slides](/slides/2
 Thursday, Oct 6, 8:00 pm  | Foundation for Inference cont.  | [Slides](/slides/2016-10-06-Foundation_for_Inference2.html), [Video](https://youtu.be/MFpkOo4K8f8)
 October 13                | NO MEETUP                       |
 Thursday, Oct 20, 8:00 pm | Inference for Numerical Data    | [Slides](/slides/2016-10-20-Inference_for_Numerical_Data.html), [Video](https://youtu.be/nDK-tsj6vpU)
-Thursday, Oct 27, 8:00 pm | Inference for Categorical Data  |
+Thursday, Oct 27, 8:00 pm | Inference for Categorical Data  | [Slides](/slides/2016-10-27-Inference_for_Categorical_Data.html), [Video](https://youtu.be/37usM_3h2xo)
 November 3                | NO MEETUP                       |
 Thursday, Nov 10, 8:00 pm | Linear Regression               |
 Thursday, Nov 17, 8:00 pm | Multiple & Logistic Regression  |
