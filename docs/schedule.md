@@ -60,7 +60,7 @@ Thursday, Oct 20, 8:00 pm | Inference for Numerical Data    | [Slides](/slides/2
 Thursday, Oct 27, 8:00 pm | Inference for Categorical Data  | [Slides](/slides/2016-10-27-Inference_for_Categorical_Data.html), [Video](https://youtu.be/37usM_3h2xo)
 November 3                | NO MEETUP                       |
 Thursday, Nov 10, 8:00 pm | Linear Regression               | [Slides 1](/slides/2016-11-10-Linear_Regression.html), [Slides 2](/slides/2016-11-10-Linear_Regression2.html), [Video](https://youtu.be/S5UpNsjttfw)
-Thursday, Nov 17, 8:00 pm | Multiple & Logistic Regression  |
+Thursday, Nov 17, 8:00 pm | Multiple & Logistic Regression  | [Slides](/slides/2016-11-18-Multiple_Regression.html), [Video](https://youtu.be/xK_gUKi5mQ0)
 November 24               | NO MEETUP - Thanksgiving        |
 Thursday, Dec 1, 8:00 pm  | Intro to Bayesian Analysis      |
 Thursday, Dec 8, 8:00 pm  | Conclusions                     |

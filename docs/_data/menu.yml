@@ -40,8 +40,8 @@
   subcategories:
     - subtitle: "Software"
       subhref: "/software/"
-    - subtitle: "IS606 R Package"
-      subhref: "https://github.com/jbryer/IS606"
+    - subtitle: "DATA606 R Package"
+      subhref: "https://github.com/jbryer/DATA606"
     - subtitle: "Math Equations"
       subhref: "/mathjax/"
     - subtitle: "R Links"

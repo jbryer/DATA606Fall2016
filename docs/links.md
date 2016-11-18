@@ -7,6 +7,7 @@ permalink: /links/
 
 ## Learning R
 
+* [R for Data Science](http://r4ds.had.co.nz/). Book by Garrett Grolemund and Hadley Wickham
 * [Quick-R](http://statmethods.net). Kabakoff's website. Great reference along with his book, *R in Action*.
 * [O'Reilly Try R](http://tryr.codeschool.com/). Great tutorial on R where you can try R commands directly from the web browser.
 * [R Reference Card](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)
